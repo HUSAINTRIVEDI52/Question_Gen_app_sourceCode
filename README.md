@@ -1,16 +1,42 @@
-# que_gen
+# Question Gen App
 
-A new Flutter project.
+A Flutter application that generates questions for educational and quiz purposes.  
+This repository contains the complete source code for the Question Generation App.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Generate questions based on input
+- Cross-platform support: **Android, iOS, Web, Windows, Linux, macOS**
+- Simple & clean UI
+- Lightweight and easy to run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Requirements
+
+- **Flutter SDK** (>=3.0.0 recommended)  
+- **Dart SDK** (comes with Flutter)  
+- Android Studio / VS Code with Flutter extension  
+- Emulator or physical device for Android/iOS, or a browser for Web  
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/HUSAINTRIVEDI52/Question_Gen_app_sourceCode.git
+cd Question_Gen_app_sourceCode
+```
+
+## Get the dependencies:
+
+```flutter pub get
+```
+
+## Run on Android/iOS:
+```flutter run
+```
