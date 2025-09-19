@@ -34,9 +34,13 @@ cd Question_Gen_app_sourceCode
 
 ## Get the dependencies:
 
-```flutter pub get
+```bash
+flutter pub get
 ```
 
 ## Run on Android/iOS:
+```bash
+flutter run
+```
 ```flutter run
 ```
